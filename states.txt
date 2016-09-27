@@ -1,0 +1,51 @@
+insert into states values("Mumbai (Maharashtra)","Delhi (Delhi)"	,1166.17,36);
+insert into states values("Bengalooru (Karnataka)","Kolkata (Bengal)"	,1560.04,26);
+insert into states values("Madras (Tamil Nadu)"	,"Ahmadabad (Gujarat)"	,1369.89,40);
+insert into states values("Hyderabad (Andhra Pradesh)","Pune (Maharashtra)",504.09,35);
+insert into states values("Surat (Gujarat)",	"Kanpur (Uttar Pradesh)"	,964.93,35);
+Jaipur (Rajasthan)	Lucknow (Uttar Pradesh)	505.8
+Nagpur (Maharashtra)	Indore ()	379.34
+Patna (Bihar)	Bhopal (Madhya Pradesh)	822.95
+Ludhiana (Punjab)	Agra (Uttar Pradesh)	463.8
+Vadodara (Gujarat)	Gorakhpur (Haryana)	832.84
+Nasik (Maharashtra)	Pimpri (Maharashtra)	151.96
+Kalyan (Maharashtra)	Thane (Maharashtra)	20.03
+Meerut (Uttar Pradesh)	Faridabad (Haryana)	71.68
+Ghaziabad (Uttar Pradesh)	Rajkot (Gujarat)	972.52
+Benares (Uttar Pradesh)	Amritsar (Punjab)	1058.87
+Allahabad (Uttar Pradesh)	Vishakhapatnam (Andhra Pradesh)	874.64
+Jabalpur ()	Haora (Bengal)	858.73
+Aurangabad (Maharashtra)	Solapur (Maharashtra)	252.21
+Srinagar (Jammu and Kashmir)	Coimbatore (Tamil Nadu)	2575.91
+Jodhpur (Rajasthan)	Chandigarh (Chandigarh)	616.04
+Madurai (Tamil Nadu)	Guwahati (Assam)	2305.93
+Gwalior (Madhya Pradesh)	Vijayawada (Andhra Pradesh)	1108.33
+Mysore (Karnataka)	Ranchi (Jharkhand)	1532.6
+Hubli (Karnataka)	Jalandhar (Punjab)	1776.81
+Thiruvananthapuram (Kerala)	Salem (Tamil Nadu)	377.75
+Distance From City	Distance To City	Distance (km)
+Tiruchchirappalli (Tamil Nadu)	Kota (Rajasthan)	1625.41
+Bhubaneshwar (Orissa)	Aligarh (Uttar Pradesh)	1158.03
+Bareilly (Uttar Pradesh)	Moradabad (Uttar Pradesh)	81.92
+Bhiwandi (Maharashtra)	Raipur (Chhattisgarh)	918.89
+Gorakhpur (Uttar Pradesh)	Bhilai (Chhattisgarh)	646.55
+Jamshedpur (Jharkhand)	Cochin (Kerala)	1776.67
+Amravati (Maharashtra)	Cuttack (Orissa)	847.05
+Bikaner (Rajasthan)	Warangal (Andhra Pradesh)	1285.41
+Bhavnagar (Gujarat)	Guntur (Andhra Pradesh)	1062.85
+Dehra Dun (Uttarakhand)	Durgapur (Bengal)	1192.68
+Ajmer (Rajasthan)	Ulhasnagar (Maharashtra)	818.48
+Kolhapur (Maharashtra)	Shiliguri (Bengal)	1839.52
+Asansol (Bengal)	Jamnagar (Gujarat)	1734.73
+Saharanpur (Uttar Pradesh)	Gulbarga (Karnataka)	1406.58
+Bhatpara (Bengal)	Jammu (Jammu and Kashmir)	1722.38
+Ujjain (Madhya Pradesh)	Nangi (Bengal)	1277.39
+Calicut (Kerala)	Tirunelveli (Tamil Nadu)	350.88
+Malegaon (Maharashtra)	Jalgaon (Maharashtra)	119.29
+Akola (Maharashtra)	Belgaum (Karnataka)	602
+Gaya (Bihar)	Udaipur (Rajasthan)	1143.21
+Korba (Chhattisgarh)	Bokaro (Jharkhand)	371.76
+Mangalore (Karnataka)	Jhansi (Uttar Pradesh)	1450.04
+Nellore (Andhra Pradesh)	Tiruppur (Tamil Nadu)	466.75
+Quilon (Kerala)	Panihati (Bengal)	1983.75
+Ahmadnagar (Maharashtra)	Dhule (Maharashtra)	202.06

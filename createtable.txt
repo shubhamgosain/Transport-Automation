@@ -1,0 +1,7 @@
+create table notarrived(TrackNo varchar(10),username varchar(20),Consigner_Name varchar(30),Description varchar(50),START varchar(25),DESTINATION varchar(25),package varchar(20),Load_Weight int(10),Delivery varchar(20),cost int(10),Booking_date varchar(30),Dispatch varchar(30),Delivery_Date varchar(30));
+
+
+
+
+
+create table arrived(TrackNo varchar(10),username varchar(20),Consigner_Name varchar(30),Description varchar(50),START varchar(25),DESTINATION varchar(25),package varchar(20),Load_Weight int(10),Delivery varchar(20),cost int(10),Booking_date varchar(30),Dispatch varchar(30),Delivery_Date varchar(30));
